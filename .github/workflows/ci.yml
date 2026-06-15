@@ -31,8 +31,3 @@ jobs:
         name: SureFire Report
         path: targe/surefire-reports/
         retention-days: 10
-
-    
-
-
-      
