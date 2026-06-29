@@ -1,0 +1,38 @@
+[33mcommit 518909147ddaf67028b7ca776db370c3254c5e95[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Admin <Admin@DESKTOP-C8USN6P>
+Date:   Mon Jun 15 18:47:41 2026 +0530
+
+    Created the TestNG.xml for Inwarranty flow execution.
+    
+    Pom.xml: Updated to take the testng.xml from the terminal.
+
+[33mcommit ff4924e06aab1b7ec2b6995d37f4089e007a5c12[m
+Author: Admin <Admin@DESKTOP-C8USN6P>
+Date:   Mon Jun 15 14:37:42 2026 +0530
+
+    Requirement 3:
+    
+    Created AuthTokenProvider- Manage the token for Different Roles.
+    
+    Role
+    
+    UserDetailsAPITest
+    
+    CountAPITest
+    
+    MasterAPITest
+
+[33mcommit e6edaeff1abf6d3346d01e83336b5dd8b1361c81[m
+Author: Admin <Admin@DESKTOP-C8USN6P>
+Date:   Sun Jun 14 13:45:30 2026 +0530
+
+    Created Config manager Class for Managing the multiple environments
+    (dev,qa,uat) for the Project
+    
+    Updated pom.xm - Updated maven Compiler source and target to 14
+
+[33mcommit a8832bbbf91fa6b85c18a36f800e1e63dcdccf79[m
+Author: Admin <Admin@DESKTOP-C8USN6P>
+Date:   Fri Jun 12 22:16:42 2026 +0530
+
+    Base Code for my Automation Framework
